@@ -1,0 +1,40 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #ECDFCC;
+}
+
+h1 {
+  margin: 30px;
+  font-family: monospace;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: #697565;
+}
+
+p {
+  font-size: 3rem;
+  color: #3C3D37;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #3C3D37;
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
